@@ -11,9 +11,8 @@ export default createGlobalStyle`
   }
 
   body {
-    background: linear-gradient(217deg, rgba(3, 0, 30, .1), rgba(115, 3, 192, .8), #fdeff9 88.71%), url(${githubBackground}) no-repeat 70% top;
+    background: rgba(115, 3, 192, .4) url(${githubBackground}) no-repeat  90% top;
     -webkit-font-smoothing: antialiased;
-
   }
 
   body, input, button {
